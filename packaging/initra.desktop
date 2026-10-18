@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Initra Linux Setup Manager
+Comment=Set up and configure a Linux workstation
+Exec=/opt/initra/run.sh
+Icon=initra
+Terminal=false
+Categories=System;Settings;
